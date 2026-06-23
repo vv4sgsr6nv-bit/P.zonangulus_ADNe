@@ -20,7 +20,6 @@ Les scripts utilisent notamment les fichiers suivants :
 * `Résultat qPCR aquarium.csv`
 * `LODCalc_Troth_PzonPacu(PZON).csv`
 * `LODCalc_Troth_PzonPacu(PACU).csv`
-* `qPCR tests(Feuil1).csv`
 * `pairwise comparison.fasta`
 * `MoyCtSite.csv`
 * `points_adne.shp`
